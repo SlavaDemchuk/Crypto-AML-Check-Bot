@@ -26,8 +26,6 @@ Before you begin, ensure you have met the following requirements:
 - You have a working installation of Python 3.7 or newer
 - You have an API key from the supported AML provider(s)
 
-![Example Image](https://i.ibb.co/QcGq5MD/New-AMLBOt.jpg "Aml")
-
 ## Installation
 
 1. Clone the repository:
