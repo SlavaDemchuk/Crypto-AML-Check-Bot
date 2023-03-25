@@ -28,7 +28,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/crypto-aml-check-bot.git
+git clone https://github.com/SlavaDemchuk/crypto-aml-check-bot.git
 
 
 2. Change to the project directory:
