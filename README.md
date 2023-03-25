@@ -10,6 +10,8 @@ To learn more about the Crypto AML Check Bot or access additional resources, ple
 
 Crypto AML Check Bot is a powerful and user-friendly solution for verifying the origin and destination of cryptocurrency transactions. Our bot helps maintain the integrity and transparency of digital assets by detecting and preventing the use of cryptocurrencies for illicit activities.
 
+![Example Image](https://i.ibb.co/3cdXB2N/maxresdefault.jpg "AMLBot")
+
 ## Features
 
 - Automated AML checks for cryptocurrency transactions
@@ -17,14 +19,14 @@ Crypto AML Check Bot is a powerful and user-friendly solution for verifying the 
 - User-friendly interface for easy integration
 - Regularly updated database of suspicious wallets and transactions
 
-![Example Image](https://i.ibb.co/QcGq5MD/New-AMLBOt.jpg "Aml")
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 - You have a working installation of Python 3.7 or newer
 - You have an API key from the supported AML provider(s)
+
+![Example Image](https://i.ibb.co/QcGq5MD/New-AMLBOt.jpg "Aml")
 
 ## Installation
 
