@@ -76,4 +76,7 @@ To learn more about the Crypto AML Check Bot or access additional resources, ple
 
 - Project Homepage: https://amlbot.tools/
 - Documentation: https://github.com/SlavaDemchuk/Crypto-AML-Check-Bot
-- Issue Tracker: https://github.com/SlavaDemchuk/crypto-aml-check-bot/issues
+- Issue Tracker: https://github.com/SlavaDemchuk/crypto-aml-check-bot/issues]
+
+
+#AMLBot #AntiMoneyLaundering #CleanCrypto #Cryptocurrency #CryptoCompliance #Blockchain #CryptoAML #CryptoSecurity #RegTech #CryptoRegulation #Bitcoin #Ethereum #BinanceSmartChain #Cardano #Polkadot #Solana #Avalanche #Arbitrum #Zksync
