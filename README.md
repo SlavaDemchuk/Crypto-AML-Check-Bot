@@ -17,6 +17,8 @@ Crypto AML Check Bot is a powerful and user-friendly solution for verifying the 
 - User-friendly interface for easy integration
 - Regularly updated database of suspicious wallets and transactions
 
+![Example Image](https://i.ibb.co/QcGq5MD/New-AMLBOt.jpg "Aml")
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
