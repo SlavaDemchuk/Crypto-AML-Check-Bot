@@ -30,21 +30,15 @@ Before you begin, ensure you have met the following requirements:
 
 git clone https://github.com/yourusername/crypto-aml-check-bot.git
 
-css
-
 
 2. Change to the project directory:
 
 cd crypto-aml-check-bot
 
-markdown
-
 
 3. Install required dependencies:
 
 pip install -r requirements.txt
-
-arduino
 
 
 ## Configuration
@@ -52,8 +46,6 @@ arduino
 1. Rename the config.example.yaml file to config.yaml:
 
 cp config.example.yaml config.yaml
-
-sql
 
 
 2. Open the config.yaml file with your favorite text editor and insert your API keys and other required settings:
@@ -64,17 +56,11 @@ platforms:
     bitcoin
     ethereum
 
-markdown
-
-
 ## Usage
 
 1. Run the Crypto AML Check Bot:
 
 python aml_check_bot.py
-
-csharp
-
 
 2. Follow the instructions in the terminal to perform AML checks on cryptocurrency transactions.
 
